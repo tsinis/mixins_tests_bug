@@ -1,5 +1,5 @@
+import 'package:flutter_test/flutter_test.dart';
 import 'package:mixins_tests_bug/main.dart';
-import 'package:test/test.dart';
 
 class _MixinTest with CoverageBug {}
 

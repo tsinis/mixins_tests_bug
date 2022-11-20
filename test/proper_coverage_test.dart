@@ -1,4 +1,4 @@
-import 'package:test/test.dart';
+import 'package:flutter_test/flutter_test.dart';
 import 'package:mixins_tests_bug/proper_coverage.dart';
 
 class _NonMixinTest extends CoverageOk {}
