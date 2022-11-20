@@ -12,3 +12,5 @@ mixin CoverageBug {
     return boolean;
   }
 }
+
+void main() {}
